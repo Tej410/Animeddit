@@ -48,7 +48,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough:
 
-<img src='https://imgur.com/a/snuisjA' title='Video Walkthrough' width='' alt='Click here' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/snuisjA"  ><a href="//imgur.com/a/snuisjA">Animeddit</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur  
