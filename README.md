@@ -46,9 +46,9 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough:
 
-<img src='https://imgur.com/a/snuisjA' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/snuisjA' title='Video Walkthrough' width='' alt='Click here' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur  
